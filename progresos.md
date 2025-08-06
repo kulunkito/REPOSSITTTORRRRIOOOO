@@ -3,6 +3,7 @@ aquí se explicarán los avances del trabajo uwu
 -----------------------------------------------
 
 hice en java la interfaz del programa del proyecto
+
 que fue lo que hice para la clase de hoy?:
 
 Campo de texto para IP de inicio.
